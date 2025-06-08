@@ -55,7 +55,7 @@
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/supreme-frontend.git
+   git clone https://github.com/mohammedsanaved/supreme-frontend
    cd supreme-frontend
    ```
 

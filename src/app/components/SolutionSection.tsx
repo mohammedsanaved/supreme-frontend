@@ -342,7 +342,7 @@ const SolutionSection: React.FC = () => {
               {/* Mobile/Tablet: Horizontal scroll for sections */}
               <div className='lg:hidden'>
                 {/* Active indicator for mobile */}
-                <div className='flex justify-center mb-4'>
+                <div className='flex justify-center mb-1.5'>
                   <div className='flex gap-2'>
                     {vehicleSectionsData.map((_, index) => (
                       <motion.div
